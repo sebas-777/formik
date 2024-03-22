@@ -5,5 +5,8 @@
     "@mui/material": "^5.15.14",
     "formik": "^2.4.5",
     "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
